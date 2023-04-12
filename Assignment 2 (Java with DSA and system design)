@@ -1,0 +1,30 @@
+ASSIGNMENT
+
+WHAT IS GIT?
+Git is a modern and widely used distributed version control system in the world. It is developed to manage projects with high speed and efficiency.
+
+WHAT DO YOU UNDERSTAND BY TERM VERSION CONTROL SYSTEM?
+Version control systems are software tools that help software teams manage changes to source code over time. As development environments have accelerated, version control systems help software teams work faster and smarter.
+
+WHAT IS GITHUB?
+GitHub is a code hosting platform for collaboration and version control. GitHub lets you (and others) work together on projects
+
+MENTION SOME POPULAR GIT HOSTING SERVICES.
+Bitbucket
+GitHub
+GitLab
+Perforce
+Beanstalk
+Amazon AWS CodeCommit
+
+DIFFERENT TYPE OF VERSION CONTROL SYSTEM.
+There are two types of version control: centralized and distributed.
+
+WHAT BENEFIT COME WITH USING GIT?
+ne of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users. Feature branches provide an isolated environment for every change to your codebase.
+
+WHAT IS GIT REPOSITORY?
+A Git repository is the . git/ folder inside a project. This repository tracks all changes made to files in your project, building a history over time. Meaning, if you delete the . git/ folder, then you delete your project's history.
+
+HOIW CAN YOU INITIALIZE A REPOSITORY IN GIT?
+To create a new repo, you'll use the git init command. git init is a one-time command you use during the initial setup of a new repo. Executing this command will create a new .git subdirectory in your current working directory. This will also create a new main branch.
